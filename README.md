@@ -54,9 +54,9 @@ Instrucciones para compilar y ejecutar:
 .\artemis.exe (para Windows);   ./artemis (para Linux o macOS)
 
 Uso de Inteligencia Artificial:
-  
 
+Durante el desarrollo del proyecto ARTEMIS para Laboratorio C utilizamos la IA "Claude".
 
+Usamos la IA principalmente para entender conceptos del lenguaje C como punteros, manejo de memoria dinámica o estructuras; interpretar errores de compilación o fallas de segmentación; revisar la modularización del código; sugerir casos de prueba; mejorar los comentarios y la documentación.
 
-
-  
+Nuestra forma de trabajo fue consultar sobre problemas puntuales, leer las respuestas con criterio y probar cada sugerencia en el código antes de incorporarla. En varios casos el código propuesto no funcionaba tal cual o no se ajustaba a lo pedido, así que tuvimos que modificarlo o descartarlo.
