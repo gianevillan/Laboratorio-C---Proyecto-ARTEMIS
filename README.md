@@ -2,10 +2,15 @@ Algoritmos y Estructuras de Datos - Laboratorio de C
 Comisión: 1.4
 
 Integrantes:
+
   Arias, Alejo Manuel
+  
   Paniagua Mántaras, Morena Iliana
+  
   Romero, Nayhara Soledad
+  
   Vargas, Raúl Alejandro
+  
   Villan, Gianella Agostina
 
 Proyecto ARTEMIS
@@ -30,11 +35,17 @@ Detalle de funcionamento:
   0. Salir
 ----------------------------------------------
 Opción	Qué hace
+
 1	Pide a₁, t₁, a₂, h y g. Cada dato se valida y se vuelve a pedir si es incorrecto. Luego calcula, muestra las cuatro respuestas y guarda la simulación.
+
 2	Ejecuta la simulación con los valores del enunciado, sin ingresar datos.
+
 3	Muestra en una tabla las simulaciones guardadas (hasta 10).
+
 4	Calcula el promedio de v₂ y señala qué simulación tuvo la mayor v₂ y la mayor altitud máxima.
+
 5	Vacía el historial, previa confirmación (s/n).
+
 0	Sale del programa.
 
 Instrucciones para compilar y ejecutar:
